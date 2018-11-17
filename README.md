@@ -32,6 +32,11 @@ The potential benefits are:
 
 ![Wireframe 3](images/wireframe3.png)
 
+## Development tools
+- [Sketch](https://www.sketchapp.com/) - For wireframe design
+- [Mircrosoft Visual Studio Code](https://code.visualstudio.com/) - For Git responsitory management 
+- [Apple XCode](https://developer.apple.com/xcode/) - For native app development
+
 ## Team members
 - Peter Chung (UI/UX)
     - Participated/joined more than 30 Hackathons in Hong Kong
@@ -47,5 +52,5 @@ The potential benefits are:
     - A health-tech startup co-founder
 
 ## Other stuff
-- [Basic Data Analysis on the AIA Vitality Dataset](aia_vitality_data_analsysi.md)
+- [Basic Data Analysis on the AIA Vitality Dataset](aia_vitality_data_analysis.md)
 - [Discussion on Friday night](friday-discussion.md)
