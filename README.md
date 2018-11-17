@@ -2,6 +2,10 @@ The code repository for AIA Life Hack 2018 #AIALIFEHACK18
 
 # Problem Statement
 
+AIA Vitality aims at improving health and living on personal level. In the current stage, it is unable to relate to his/her core family members.
+
+# Solution and Benefits
+
 We would like to improve **customer engagement** by extending AIA Vitality from personal level to family level. 
 
 The potential benefits are:
