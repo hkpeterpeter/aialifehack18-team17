@@ -7,7 +7,6 @@ The code repository for AIA Life Hack 2018 #AIALIFEHACK18
 - Keith Ng (Designer)
 - Cavour, Iu Yan Poon (Business and Software Developer, worked in the insurance tech industry for around 3 years)  
 
-
 # Discussion on Friday night
 
 ## Key points we discussed
@@ -15,14 +14,23 @@ The code repository for AIA Life Hack 2018 #AIALIFEHACK18
 We aim to improve AIA Vitality ecosystem in the following 2 main directions
 
 - Family-based Data Analysis and Visualization
-    - Vitality is mainly focused on improving personal health
-    - We would like to enhance it by introducing a family-based concept
-- Explore New Datasets from Wearable Devices
+    - One family member encouages/extends to other family members
+    - Idea: Family games to engage more family members (e.g. father/mother/kids)
+    - Incentives
+        - Free wearable devices for family
+        - Free body checks for family
+- New Data Points Collection via Wearable Devices
+    - Possible data points
+        - Food/drink habit
+        - Personalized sleep pattern
+        - Mobile phone screen usage
+        - Nutrition intakes everyday
     - Vitality records "number of steps" to evaluate how healthy a person is 
     - Modern wearable devices (e.g. Apple Watch / FitBit) can record more data from users
 
 ## Long-term Goals
 - Usage-Based Insurance (UBI)
+- Reduce the abuse of medical insurance reimbursement 
 
 ## Mind-Map / Discussion Map Created on Friday Night
 
