@@ -2,10 +2,15 @@ The code repository for AIA Life Hack 2018 #AIALIFEHACK18
 
 # Team members
 - Peter Chung (UI/UX)
-- Colin Wong (Design thinker, worked as insurance broker for nearly 8 years)
+    - Participated/joined more than 30 Hackathons in Hong Kong
+- Colin Wong (Design thinker)
+    - Worked as an insurance broker for nearly 8 years
+    - Co-founded an InsurTech startup for nearly 2 years
+- Cavour, Iu Yan Poon (Business and Software Developer)
+    - Worked in the insurance tech industry for around 3 years 
 - Timonthy Ng (Software Developer and Data Scientist)
 - Keith Ng (Designer)
-- Cavour, Iu Yan Poon (Business and Software Developer, worked in the insurance tech industry for around 3 years)  
+
 
 # Discussion on Friday night
 
