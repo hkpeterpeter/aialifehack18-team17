@@ -4,15 +4,15 @@ The code repository for AIA Life Hack 2018 #AIALIFEHACK18
 
 I am a AIA customer for more than 10 years. When my mother got stroke 2 years ago, I evaluated her medical history, and found out that she didn't buy any insurance product.
 
-# Problem Statement
+## Problem Statement
 
 In AIA Life Hack 2018, we would like raise awareness of family protection. 
 
-# Proposed Solution
+## Proposed Solution
 
 We would like to use **Gamification** approach to improve **customer engagement** from personal level to family level. 
 
-# Potential Benefits
+## Potential Benefits
 
 The potential benefits are:
 - **Bring** healthier life to the customers and their core family members
@@ -32,7 +32,7 @@ The potential benefits are:
 
 ![Wireframe 3](images/wireframe3.png)
 
-# Team members
+## Team members
 - Peter Chung (UI/UX)
     - Participated/joined more than 30 Hackathons in Hong Kong
     - Used to have a health-tech startup project at Cyberport 2 years ago
@@ -46,9 +46,9 @@ The potential benefits are:
 - Nathan Hui (Business)
     - A health-tech startup co-founder
 
-# Discussion on Friday night
+## Discussion on Friday night
 
-## Key points we discussed
+### Key points we discussed
 
 We aim to improve AIA Vitality ecosystem in the following 2 main directions
 
@@ -67,14 +67,10 @@ We aim to improve AIA Vitality ecosystem in the following 2 main directions
     - Vitality records "number of steps" to evaluate how healthy a person is 
     - Modern wearable devices (e.g. Apple Watch / FitBit) can record more data from users
 
-## Goals
+### Goals
 - Strengthen family bond
 - Reach out more potential customers
 - In the long term, reach the goal of Usage-Based Insurance (UBI)
 
-
-
-
-
-## Mind-Map / Discussion Map Created on Friday Night
+### Mind-Map / Discussion Map Created on Friday Night
 ![Discussion on Friday](images/discussion-fri-night.jpg)
