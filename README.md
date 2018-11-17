@@ -1,5 +1,14 @@
 The code repository for AIA Life Hack 2018 #AIALIFEHACK18
 
+# Problem Statement
+
+We would like to improve **customer engagement** by extending AIA Vitality from personal level to family level. 
+
+The potential benefits are:
+- **Bring** healthier life to the customers and their core family members
+- **Reach** out more potential customers
+- **Discourage** abuse of medical insurance reimbursement 
+
 # Team members
 - Peter Chung (UI/UX)
     - Participated/joined more than 30 Hackathons in Hong Kong
