@@ -2,7 +2,9 @@ The code repository for AIA Life Hack 2018 #AIALIFEHACK18
 
 # Problem Statement
 
-AIA Vitality aims at improving health and living on personal level. In the current stage, it is unable to relate to his/her core family members.
+AIA Vitality aims at improving health and living on personal level. 
+
+We believe that family members contribute a major part of a person's life. In the current stage, it is unable to relate to his/her core family members.
 
 # Solution and Benefits
 
@@ -23,7 +25,7 @@ The potential benefits are:
     - Worked in the insurance tech industry for around 3 years 
 - Timonthy Ng (Software Developer and Data Scientist)
 - Keith Ng (Designer)
-
+- Nathan 
 
 # Discussion on Friday night
 
