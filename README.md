@@ -2,25 +2,32 @@ The code repository for AIA Life Hack 2018 #AIALIFEHACK18
 
 # Storyline
 
-I am a AIA customer for more than 10 years. When my mother got stroke 2 years ago, I evaluated her medical history, and found out that she didn't buy any insurance product, and was not awared of her insurance coverage. 
+I am a AIA customer for more than 10 years. When my mother got stroke 2 years ago, I evaluated her medical history, and found out that she didn't buy any insurance product.
 
 # Problem Statement
 
-New customers have difficulties to understand insurance products, and have no immediate needs to buy insurance products. 
-
-Existing customers may receive insurance coverage in a personal level. Family members contribute a major part of a person's life. However, it is unable to relate to his/her core family members.
-
-*Note: We need to validate it from the customer's Q and A*
+In AIA Life Hack 2018, we would like raise awareness of family protection. 
 
 # Proposed Solution
 
-We would like to improve **customer engagement** by extending AIA Vitality from personal level to family level. 
+We would like to use **Gamification** approach to improve **customer engagement** from personal level to family level. 
 
 # Potential Benefits
 
 The potential benefits are:
 - **Bring** healthier life to the customers and their core family members
 - **Reach** out more potential customers
+
+## Wireframes
+
+**Wireframe 1:  Login Screen**
+![Wireframe 1](images/wireframe1.png)
+
+**Wireframe 2:  Family-based challenges**
+![Wireframe 2](images/wireframe2.png)
+
+**Wireframe 3: Details of the family-based challenge**
+![Wireframe 3](images/wireframe3.png)
 
 # Team members
 - Peter Chung (UI/UX)
@@ -57,10 +64,14 @@ We aim to improve AIA Vitality ecosystem in the following 2 main directions
     - Vitality records "number of steps" to evaluate how healthy a person is 
     - Modern wearable devices (e.g. Apple Watch / FitBit) can record more data from users
 
-## Long-term Goals
-- Usage-Based Insurance (UBI)
-- Reduce the abuse of medical insurance reimbursement 
+## Goals
+- Strengthen family bond
+- Reach out more potential customers
+- In the long term, reach the goal of Usage-Based Insurance (UBI)
+
+
+
+
 
 ## Mind-Map / Discussion Map Created on Friday Night
-
 ![Discussion on Friday](images/discussion-fri-night.jpg)
