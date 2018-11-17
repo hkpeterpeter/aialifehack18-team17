@@ -21,12 +21,15 @@ The potential benefits are:
 ## Wireframes
 
 **Wireframe 1:  Login Screen**
+
 ![Wireframe 1](images/wireframe1.png)
 
 **Wireframe 2:  Family-based challenges**
+
 ![Wireframe 2](images/wireframe2.png)
 
 **Wireframe 3: Details of the family-based challenge**
+
 ![Wireframe 3](images/wireframe3.png)
 
 # Team members
