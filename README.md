@@ -24,4 +24,6 @@ We aim to improve AIA Vitality ecosystem in the following 2 main directions
 ## Long-term Goals
 - Usage-Based Insurance (UBI)
 
+## Mind-Map / Discussion Map Created on Friday Night
+
 ![Discussion on Friday](images/discussion-fri-night.jpg)
