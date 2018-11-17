@@ -1,19 +1,26 @@
 The code repository for AIA Life Hack 2018 #AIALIFEHACK18
 
+# Storyline
+
+I am a AIA customer for more than 10 years. When my mother got stroke 2 years ago, I evaluated her medical history, and found out that she didn't buy any insurance product, and was not awared of her insurance coverage. 
+
 # Problem Statement
 
-AIA Vitality aims at improving health and living on personal level. 
+New customers have difficulties to understand insurance products, and have no immediate needs to buy insurance products. 
 
-We believe that family members contribute a major part of a person's life. In the current stage, it is unable to relate to his/her core family members.
+Existing customers may receive insurance coverage in a personal level. Family members contribute a major part of a person's life. However, it is unable to relate to his/her core family members.
 
-# Solution and Benefits
+*Note: We need to validate it from the customer's Q and A*
+
+# Proposed Solution
 
 We would like to improve **customer engagement** by extending AIA Vitality from personal level to family level. 
+
+# Potential Benefits
 
 The potential benefits are:
 - **Bring** healthier life to the customers and their core family members
 - **Reach** out more potential customers
-- **Discourage** abuse of medical insurance reimbursement 
 
 # Team members
 - Peter Chung (UI/UX)
@@ -26,7 +33,7 @@ The potential benefits are:
     - Worked in the insurance tech industry for around 3 years 
 - Timonthy Ng (Software Developer and Data Scientist)
 - Keith Ng (Designer)
-- Nathan (Business)
+- Nathan Hui (Business)
     - A health-tech startup co-founder
 
 # Discussion on Friday night
