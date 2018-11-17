@@ -18,6 +18,7 @@ The potential benefits are:
 # Team members
 - Peter Chung (UI/UX)
     - Participated/joined more than 30 Hackathons in Hong Kong
+    - Used to have a health-tech startup project at Cyberport 2 years ago
 - Colin Wong (Design thinker)
     - Worked as an insurance broker for nearly 8 years
     - Co-founded an InsurTech startup for nearly 2 years
@@ -25,7 +26,8 @@ The potential benefits are:
     - Worked in the insurance tech industry for around 3 years 
 - Timonthy Ng (Software Developer and Data Scientist)
 - Keith Ng (Designer)
-- Nathan 
+- Nathan (Business)
+    - A health-tech startup co-founder
 
 # Discussion on Friday night
 
