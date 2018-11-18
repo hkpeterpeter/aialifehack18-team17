@@ -1,22 +1,25 @@
+# Famtality
+
+![Logo](images/logo.png)
+
+Healthier, Longer, Better Lives for Families
+
 The code repository for AIA Life Hack 2018 #AIALIFEHACK18
 
-# Storyline
+## Storyline
 
-I am a AIA customer for more than 10 years. When my mother got stroke 2 years ago, I evaluated her medical history, and found out that she didn't buy any insurance product.
+Mr Chung has **strong** health and insurance awareness. He brough the first medical insurance product 12 years ago. He exercises regularly. 
+
+Chung's mother, on the other hand, has **weak** health and insurance awareness. She never buy any insurance product. She got stroke 2 years ago. Now, she is relying on public health care system for rehabilitation
+
 
 ## Problem Statement
 
-In AIA Life Hack 2018, we would like raise awareness of family protection. 
+In AIA Life Hack 2018, we would like address the problem of **Low Awareness of Family Health and Insurance Protection**
 
 ## Proposed Solution
 
-We would like to use **Gamification** approach to improve **customer engagement** from personal level to family level. 
-
-## Potential Benefits
-
-The potential benefits are:
-- **Bring** healthier life to the customers and their core family members
-- **Reach** out more potential customers
+We would like to use **Gamification** to extend **Health and Insurance Awareness** from personal to family level
 
 ## Wireframes
 
@@ -47,7 +50,9 @@ The potential benefits are:
 - Cavour, Iu Yan Poon (Business and Software Developer)
     - Worked in the insurance tech industry for around 3 years 
 - Timonthy Ng (Software Developer and Data Scientist)
+    - Years of experience in native iOS development
 - Keith Ng (Designer)
+    - Years of experience in user interface design 
 - Nathan Hui (Business)
     - A health-tech startup co-founder
 
