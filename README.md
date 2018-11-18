@@ -6,6 +6,12 @@ Healthier, Longer, Better Lives for Families
 
 The code repository for AIA Life Hack 2018 #AIALIFEHACK18
 
+## Repository Organization
+
+- AIAHack-iOS-App: Our App demo written by **Swift**
+- Wireframe folders: Several iteration of design using **JavaScript** and **Sketch**
+- slides: Several iterations of slides in Microsoft PowerPoint format
+
 ## Storyline
 
 Mr Chung has **strong** health and insurance awareness. He brough the first medical insurance product 12 years ago. He exercises regularly. 
